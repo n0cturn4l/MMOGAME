@@ -1,0 +1,21 @@
+//////////////////////////////////////////////
+//UniverseGaming Github Terms of service/////
+//////////////////////////////////////////////
+
+
+Files From this Git are Private property if they are to be Open source they will also be added to a google code
+Page as open source but every File in this Git is Concidered Private and if any files are released and the person
+Who leaked them is identifyed you will be out of the project and lose the right to getting paid when the project
+if completed 
+
+Misuse of this github will result in a IP ban and removed from the group.
+
+all commits will go thought me once i approve the patch or file it will be added
+
+to get your file or patch approve you need to email me with the info to identify the file in the github and 
+explain what this file is for and its mechanics.
+
+if you have any questions about the TOS please email n0turn4l@charter.net
+
+Universe Gaming© Copyrighted 2012
+
